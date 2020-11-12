@@ -9,7 +9,7 @@ public class task2 {
 		try {
 		System.out.println(a);
 		System.out.println(n);
-		//throw new RuntimeException("final variable can't be incremented"); 
+		throw new RuntimeException("final variable can't be incremented"); 
 		}
 		catch(Exception e)
 		{
