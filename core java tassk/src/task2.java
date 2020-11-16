@@ -1,4 +1,4 @@
-
+//difference between final,finally and finalize
 public class task2 {
 	static int a=5;
 	final static int n=10;
